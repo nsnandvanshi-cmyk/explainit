@@ -1,0 +1,21 @@
+{
+  "files": [
+    "Makefile",
+    "README.md",
+    "analyzer/called_by.go",
+    "analyzer/calls.go",
+    "analyzer/files.go",
+    "analyzer/functions.go",
+    "analyzer/impact.go",
+    "cmd/called_by.go",
+    "cmd/functions.go",
+    "cmd/impact.go",
+    "cmd/output.go",
+    "cmd/scan.go",
+    "cmd/what.go",
+    "main.go",
+    "storage/index.go",
+    "storage/index.json",
+    "storage/load.go"
+  ]
+}
